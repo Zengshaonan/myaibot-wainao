@@ -30,7 +30,7 @@
 3. 设置环境变量：
    bash export DEEPSEEK_API_KEY="你的DeepSeek API密钥"
 4. 启动应用：
-   bash streamlit run 第二章/28.AI-wainao.py
+   bash streamlit run AI-wainao.py
 5. 打开浏览器访问：`http://localhost:8501`
 
 ---
