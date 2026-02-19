@@ -26,8 +26,9 @@
 1. 克隆项目到本地：
    bash git clone https://github.com/你的用户名/ai-wainao.git cd ai-wainao
 2. 安装依赖：
-   bash pip install -r requirements.txt
    
+   bash pip install -r requirements.txt
+
    bash pip install -r requirements.txt
 4. 设置环境变量：
    bash export DEEPSEEK_API_KEY="你的DeepSeek API密钥"
