@@ -19,6 +19,7 @@
 
 #### 环境要求
 - Python >= 3.8
+- 
 - 安装依赖库
 
 #### 安装步骤
@@ -26,12 +27,13 @@
    bash git clone https://github.com/你的用户名/ai-wainao.git cd ai-wainao
 2. 安装依赖：
    bash pip install -r requirements.txt
+   
    bash pip install -r requirements.txt
-3. 设置环境变量：
+4. 设置环境变量：
    bash export DEEPSEEK_API_KEY="你的DeepSeek API密钥"
-4. 启动应用：
+5. 启动应用：
    bash streamlit run AI-wainao.py
-5. 打开浏览器访问：`http://localhost:8501`
+6. 打开浏览器访问：`http://localhost:8501`
 
 ---
 
