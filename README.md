@@ -23,8 +23,11 @@
 
 #### 安装步骤
 1. 克隆项目到本地：
-   bash git clone https://github.com/你的用户名/ai-wainao.git cd ai-wainao
-2. 安装依赖：
+
+   bash git clone https://github.com/你的用户名/ai-wainao.git
+
+   cd ai-wainao
+3. 安装依赖：
    
    bash pip install -r requirements.txt
 
